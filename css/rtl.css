@@ -1,0 +1,279 @@
+body {
+  direction: rtl;
+  font-family: 'Droid-Arabic-Kufi', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+button,
+textarea,
+ul,
+li {
+  font-family: 'Droid-Arabic-Kufi', sans-serif;
+}
+
+.pull-right {
+  float: left;
+}
+
+.list-inline {
+  text-align: right;
+  padding-right: 0px;
+}
+
+.navbar-brand {
+  float: none;
+}
+
+.header-contact {
+  margin-right: 0px;
+  margin-left: 0px;
+  border-right: none;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#intro {
+  text-align: right;
+}
+
+.slick-slider {
+  direction: ltr;
+}
+
+.wrap-feature-two {
+  direction: ltr;
+}
+
+.three-left {
+  text-align: right;
+}
+
+.accordion {
+  text-align: right;
+}
+
+.accordion .media img {
+  margin-right: 0px !important;
+  margin-left: 10px;
+}
+
+.accordion-title:after {
+
+  margin-left: 0px;
+  left: 10px;
+  right: auto;
+}
+
+#filters li {
+  float: right;
+}
+
+.dark {
+  direction: ltr;
+}
+
+.Progress h5 {
+  text-align: right;
+}
+
+footer h3 {
+  text-align: right;
+}
+
+footer li {
+  text-align: right;
+}
+
+footer .fa-caret-right {
+  transform: rotate(180deg);
+}
+
+footer .btn-primary {
+  float: right;
+}
+
+.margin-bottom-30px {
+  clear: both;
+}
+
+footer .footer-heading {
+  float: right;
+}
+
+footer .list-unstyled {
+  /* direction: ltr; */
+}
+
+.navbar-nav {
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.navbar-nav {
+  margin-right: 0px !important;
+}
+
+.social-icons a {
+  float: right;
+  margin-left: 5px;
+  margin-right: 0px;
+}
+
+.lang {
+  float: right;
+  margin-left: 5px;
+  margin-right: 0px;
+}
+
+.mr-auto {
+  margin-left: auto !important;
+}
+
+.dropdown-menu {
+  /*right: 0;*/
+  right: 0px;
+  left: auto;
+}
+
+#news-boxs {
+  text-align: right;
+}
+
+.rssticker-container {
+  direction: ltr;
+  text-align: right;
+
+}
+
+.navbar-inverse .navbar-nav .nav-link,
+.dropdown-menu a {
+  font-family: 'Droid-Arabic-Kufi', sans-serif;
+}
+
+.email-field {
+  padding-right: 0 !important;
+}
+
+.modal-title {
+  text-align: right;
+}
+
+.counter li p {
+  font-size: 20px !important;
+}
+
+@media (min-width: 992px) {
+  .navbar-toggleable-md .navbar-collapse {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    width: 100%;
+  }
+
+  .navbar-toggler:not(:disabled):not(.disabled) {
+    display: none;
+  }
+}
+
+
+
+
+
+/*By Mohamed 9-3-2019*/
+
+.slick-slider {
+  direction: ltr;
+}
+
+.slick-slide {
+  float: right;
+  padding-right: 0;
+}
+
+.title-section {
+  padding-bottom: 30px;
+}
+
+.header-bref {
+  border-right: 5px solid #f7a61b;
+  padding-right: 10px;
+  border-left: none;
+  display: flex;
+}
+
+.header-bref p {
+  text-align: right !important;
+  font-size: 14px;
+}
+
+.page {
+  text-align: right;
+}
+
+.header-bref-title .fa {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.import_links .link {
+  text-align: right;
+}
+
+.link img {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+}
+
+.page .list .sub-title {
+  text-align: right;
+}
+
+.page .list {
+  text-align: right;
+}
+
+.carousel-indicators {
+  left: auto;
+  margin-left: auto;
+  margin-right: 13%;
+
+}
+
+.carousel-caption {
+  text-align: right;
+}
+
+.news-img-link {
+  margin-right: 0px;
+  margin-left: 10px;
+}
+
+.submenu-drop .dropdown-menu.show a {
+  text-align: right;
+}
+
+a.dropdown-item {
+  text-align: right;
+}
+
+footer input[type="submit"] {
+  margin-right: 0px;
+}
+
+.o-news .col-md-4 {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.o-news .col-md-4:nth-child(3) a {
+  left: 20px;
+}
